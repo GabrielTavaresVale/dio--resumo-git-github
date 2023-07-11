@@ -5,7 +5,7 @@ Repositorios para armazenar resumoes do curso DIO de GIT e GITHUB [Digital Inova
 
 ## Anotações feitas 
 
- Git e Github 
+ Git e GITHUB
 
 $ cat .git-credentials // Ver a credencial Criada
 
