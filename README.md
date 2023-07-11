@@ -51,3 +51,18 @@ git remote -v //ver se esta conectado ao repositorio remoto
 $ git remote add origin https://github.com/GabrielTavaresVale/Lepo-Local.git// Adciona repositorio local ao remoto
 
 
+git add README.md // Adiciona arquivo para ser comitado (preparação)
+
+$ git commit -m"commit inicial de Gabriel Tavares Da Silva Vale"// Sintaxe do Commit
+
+gitkeep//convensão para o git reconhecer um dir vazio
+
+git restore// descarta as alterações feitas localmente
+
+git reset soft// os arquivos posteriores ao 1 commit voltam pra area de preparação
+git reset mixed// padrao
+git reset hard// apaga tudo que veio depois do commit
+
+git reflog// Visualiza o historico de commits 
+
+git push//  Comando Responsavel por enviar as alterações do rep local para o remoto
